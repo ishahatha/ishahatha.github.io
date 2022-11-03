@@ -224,7 +224,7 @@ input, select, textarea {
 /* Container */
 
 	.container {
-		margin: 0 auto;
+		margin: 0 0;
 		max-width: calc(100% - 50px);
 		width: 1200px;
 	}
