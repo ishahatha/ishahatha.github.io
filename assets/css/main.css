@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: #303030;
+		color: #000084;
 		font-weight: 300;
 		font-size: 13pt;
 	}
@@ -2005,6 +2005,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 {
+		    color: #303030;
 			background-image: none;
 			background-color: #fff;
 		}
