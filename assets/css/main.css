@@ -2295,7 +2295,7 @@ input, select, textarea {
 
 			body, input, textarea, select {
 				line-height: 1.75em;
-				font-size: 12pt;
+				font-size: 10pt;
 				letter-spacing: 0;
 			}
 
@@ -2468,7 +2468,7 @@ input, select, textarea {
 				}
 
 				#top p {
-					font-size: 12pt;
+					font-size: 1em;
 				}
 
 			#contact footer {
