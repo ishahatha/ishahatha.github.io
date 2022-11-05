@@ -2253,6 +2253,7 @@ input, select, textarea {
 
 			body {
 				padding-top: 44px;
+				text-align: left;
 			}
 
 			body, input, textarea, select {
