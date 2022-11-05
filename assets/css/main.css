@@ -2311,7 +2311,7 @@ input, select, textarea {
 			}
 
 			h2 {
-			    font-size: 1.5em;
+			    font-size: 1.75em;
 			}
 
 			header {
@@ -2400,7 +2400,8 @@ input, select, textarea {
 			.box {
 				padding: 30px 20px 30px 20px;
 				margin: 0 0 20px 0 !important;
-
+                font-size: 1.5em;
+                line-height: 1.6;
 			}
 
 				.box h3 {
