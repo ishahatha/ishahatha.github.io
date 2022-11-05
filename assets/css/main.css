@@ -857,10 +857,7 @@ input, select, textarea {
 					margin-left: 25%;
 				}
 
-				.row > .col-4-
-
-
-				large {
+				.row > .col-4-large {
 					width: 33.33333%;
 				}
 
@@ -2238,7 +2235,7 @@ input, select, textarea {
 		/* Articles */
 
 			#top {
-				text-align: center;
+				text-align: left;
 				padding: 5em 0;
 			}
 
