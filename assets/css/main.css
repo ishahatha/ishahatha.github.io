@@ -2443,6 +2443,7 @@ input, select, textarea {
 			#nav {
 				height: 44px;
 				line-height: 44px;
+				font-size: 1.3em;
 			}
 
 				#nav a {
