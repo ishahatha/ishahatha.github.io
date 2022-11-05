@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: #3e3e3e;
+		color: #303030;
 		font-weight: 300;
 		font-size: 13pt;
 	}
@@ -115,7 +115,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #0B055F !important;
+			color: #000084 !important;
 		}
 
 		a img {
@@ -1526,7 +1526,7 @@ input, select, textarea {
 /* Form */
 
 	form label {
-		color: #3e3e3e;
+		color: #303030;
 		font-weight: 700;
 		display: block;
 		margin: 0 0 0.5em 0;
@@ -1923,7 +1923,7 @@ input, select, textarea {
 
 	.box {
 		background: #fff;
-		color: #3e3e3e;
+		color: #303030;
 		text-align: center;
 		padding: 2em;
 	}
@@ -2015,7 +2015,7 @@ input, select, textarea {
 
 		.wrapper.style3 {
 			background-color: #F8F3E0;
-			color: #0B055F;
+			color: #000084;
 		}
 
 		.wrapper.style4 {
