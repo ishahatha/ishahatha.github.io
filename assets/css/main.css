@@ -2006,6 +2006,7 @@ input, select, textarea {
 
 		.wrapper.style1 {
 		    color: #303030;
+		    text-align: left;
 			background-image: none;
 			background-color: #fff;
 		}
@@ -2206,7 +2207,7 @@ input, select, textarea {
 
 			.wrapper {
 				padding: 5em 0 5em 0;
-
+				text-align: center;
 			}
 
 				.wrapper.style4 .row-special {
@@ -2235,7 +2236,7 @@ input, select, textarea {
 		/* Articles */
 
 			#top {
-
+				text-align: center;
 				padding: 5em 0;
 			}
 
