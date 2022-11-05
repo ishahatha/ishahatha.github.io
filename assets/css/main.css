@@ -2251,9 +2251,13 @@ input, select, textarea {
 
 		/* Basic */
 
+            #top {
+                text-align: left;
+                padding: 5em 0;
+            }
+
 			body {
 				padding-top: 44px;
-				text-align: left;
 			}
 
 			body, input, textarea, select {
