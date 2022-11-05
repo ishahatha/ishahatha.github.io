@@ -2412,6 +2412,10 @@ input, select, textarea {
 					margin-bottom: 1em;
 				}
 
+				.box img {
+                    width: 100px;
+                }
+
 				.box .image.featured {
 					position: relative;
 					left: 20px;
