@@ -2412,7 +2412,7 @@ input, select, textarea {
 					margin-bottom: 1em;
 				}
 
-				.box img {
+				#details .box img {
                     width: 90px;
                 }
 
