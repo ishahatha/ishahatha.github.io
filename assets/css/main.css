@@ -1694,6 +1694,10 @@ input, select, textarea {
             padding-top: 1em;
         }
 
+        .little-bigger-space-top {
+            padding-top: 3em;
+        }
+
 		input[type="button"]:hover,
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,
