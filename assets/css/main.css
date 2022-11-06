@@ -2060,6 +2060,7 @@ input, select, textarea {
 			text-decoration: none;
 			outline: 0;
 			font-weight: 600;
+			font-size: 1.2em;
 			border-radius: 8px;
 			color: #fff;
 			height: 2.5em;
@@ -2467,7 +2468,7 @@ input, select, textarea {
 			#nav {
 				height: 46px;
 				line-height: 44px;
-				font-size: 1.4em;
+				font-size: 0.9em;
 			}
 
 				#nav a {
