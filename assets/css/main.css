@@ -2477,13 +2477,13 @@ input, select, textarea {
 
 			#nav {
 				height: 3.8em;
-				line-height: 1.4em;
+				line-height: 1.5em;
 				font-size: 1.2em;
 				padding: 1.2em;
 			}
 
 				#nav a {
-					padding: 0 0.75em;
+					padding: 0 1em;
 					height: inherit;
 					line-height: inherit;
 					border-radius: 0;
