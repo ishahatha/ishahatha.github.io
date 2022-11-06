@@ -1924,7 +1924,7 @@ input, select, textarea {
 
 		.box.style1 {
 		    background-color: #FFF;
-			padding: 1.5em 1.5em 2em 1.5em;
+			padding: 1.5em 1.5em 2.5em 1.5em;
 		}
 
 			.box.style1 h3 {
@@ -2447,10 +2447,6 @@ input, select, textarea {
 				.box .image.centered {
 					margin-bottom: 1em;
 				}
-
-				#details .box img {
-                    width: 100px;
-                }
 
 				.box .image.featured {
 					position: relative;
