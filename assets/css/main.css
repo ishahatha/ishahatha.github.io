@@ -2095,7 +2095,7 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 5em 0 5em 0;
+		padding: 5em 0 12em 0;
 		text-align: left;
 	}
 
@@ -2292,6 +2292,7 @@ input, select, textarea {
 
             #top .button {
                 text-align: center;
+                line-height: 1em;
                 padding: 1em 0 1em 0 1em;
                 font-size: 1.6em;
             }
@@ -2364,6 +2365,7 @@ input, select, textarea {
 				button.large,
 				.button.large {
 				    text-align: center;
+				    line-height: 1em;
 					font-size: 2em;
 					letter-spacing: 0;
 				}
