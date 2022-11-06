@@ -1311,7 +1311,8 @@ input, select, textarea {
 					margin-left: 8.33333%;
 				}
 
-				.row > .col-2-small {
+				.row > .col-2-
+				 {
 					width: 16.66667%;
 				}
 
@@ -2443,7 +2444,7 @@ input, select, textarea {
 				}
 
 				#details .box img {
-                    width: 140px;
+                    width: 100px;
                 }
 
 				.box .image.featured {
