@@ -2354,9 +2354,8 @@ input, select, textarea {
 			button,
 			.button {
 				text-align: center;
-				font-size: 1.2em;
+				font-size: 1.4em;
 				width: 100%;
-				padding: 0.5em 0 0.5em 0;
 			}
 
 				input[type="button"].large,
@@ -2364,7 +2363,8 @@ input, select, textarea {
 				input[type="reset"].large,
 				button.large,
 				.button.large {
-					font-size: 1.7em;
+				    text-align: center;
+					font-size: 2em;
 					letter-spacing: 0;
 				}
 
