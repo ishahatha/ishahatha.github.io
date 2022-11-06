@@ -2034,7 +2034,8 @@ input, select, textarea {
 		width: 100%;
 		z-index: 10000;
 		cursor: default;
-		height: 3.5em;
+		padding: 0.3em;
+		height: 4em;
 		line-height: 3.5em;
 	}
 
@@ -2466,9 +2467,9 @@ input, select, textarea {
 		/* Nav */
 
 			#nav {
-				height: 46px;
+				height: 4.5em;
 				line-height: 44px;
-				font-size: 0.9em;
+				font-size: 1.2em;
 			}
 
 				#nav a {
