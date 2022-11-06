@@ -1684,6 +1684,15 @@ input, select, textarea {
 		max-width: 24em;
 	}
 
+
+        .little-space-bottom {
+            padding-top: 0.6em;
+        }
+
+        .little-space-above {
+            padding-top: 0.6em;
+        }
+
 		input[type="button"]:hover,
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,
@@ -2467,9 +2476,9 @@ input, select, textarea {
 		/* Nav */
 
 			#nav {
-				height: 3.7em;
+				height: 3.5em;
 				line-height: 1em;
-				font-size: 1.2em;
+				font-size: 1em;
 				padding: 1.3em;
 			}
 
