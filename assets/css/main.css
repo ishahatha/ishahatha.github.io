@@ -2392,7 +2392,7 @@ input, select, textarea {
 				button.large,
 				.button.large {
 				    text-align: center;
-				    line-height: 1em;
+				    line-height: 1.15em;
 					font-size: 2em;
 					letter-spacing: 0;
 				}
