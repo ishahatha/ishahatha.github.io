@@ -1689,8 +1689,8 @@ input, select, textarea {
             padding-top: 0.6em;
         }
 
-        .little-space-above {
-            padding-top: 0.6em;
+        .little-space-top {
+            padding-top: 1em;
         }
 
 		input[type="button"]:hover,
