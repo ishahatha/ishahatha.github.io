@@ -2290,6 +2290,12 @@ input, select, textarea {
                 font-size: 1.60em;
             }
 
+            #top .button {
+                text-align: center;
+                padding: 1em 0 1em 0;
+                font-size: 1em;
+            }
+
 			body {
 				padding-top: 44px;
 			}
@@ -2350,7 +2356,7 @@ input, select, textarea {
 				text-align: center;
 				font-size: 1.2em;
 				width: 100%;
-				padding: 1em 0 1em 0;
+				padding: 0.5em 0 0.5em 0;
 			}
 
 				input[type="button"].large,
