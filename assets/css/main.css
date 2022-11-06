@@ -2303,6 +2303,10 @@ input, select, textarea {
                 font-size: 1.4em;
             }
 
+            #top h1 {
+                font-size: 2em;
+            }
+
 			body {
 				padding-top: 44px;
 			}
